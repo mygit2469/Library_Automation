@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-06T16:19:51 IST" name="Surefire suite" finished-at="2023-10-06T16:19:58 IST" duration-ms="7125">
+    <groups>
+    </groups>
+    <test started-at="2023-10-06T16:19:51 IST" name="Surefire test" finished-at="2023-10-06T16:19:58 IST" duration-ms="7125">
+      <class name="api.test.LibraryTests">
+        <test-method is-config="true" signature="setupData()[pri:0, instance:api.test.LibraryTests@44a664f2]" started-at="2023-10-06T16:19:51 IST" name="setupData" finished-at="2023-10-06T16:19:52 IST" duration-ms="799" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupData -->
+        <test-method signature="postAddBookTest()[pri:1, instance:api.test.LibraryTests@44a664f2]" started-at="2023-10-06T16:19:57 IST" name="postAddBookTest" finished-at="2023-10-06T16:19:58 IST" duration-ms="1235" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postAddBookTest -->
+        <test-method signature="postGetBook()[pri:2, instance:api.test.LibraryTests@44a664f2]" started-at="2023-10-06T16:19:58 IST" name="postGetBook" finished-at="2023-10-06T16:19:58 IST" duration-ms="166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postGetBook -->
+        <test-method signature="postDeleteBook()[pri:3, instance:api.test.LibraryTests@44a664f2]" started-at="2023-10-06T16:19:58 IST" name="postDeleteBook" finished-at="2023-10-06T16:19:58 IST" duration-ms="151" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postDeleteBook -->
+      </class> <!-- api.test.LibraryTests -->
+      <class name="api.test.DDTests">
+        <test-method signature="postSetUpData(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:api.test.DDTests@62bd765]" started-at="2023-10-06T16:19:54 IST" name="postSetUpData" data-provider="Data" finished-at="2023-10-06T16:19:54 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Maths]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Maths]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[23451]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Ram]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postSetUpData -->
+        <test-method signature="postSetUpData(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:api.test.DDTests@62bd765]" started-at="2023-10-06T16:19:54 IST" name="postSetUpData" data-provider="Data" finished-at="2023-10-06T16:19:54 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[English]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[English]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[45455]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Shyam]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postSetUpData -->
+        <test-method signature="postSetUpData(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:api.test.DDTests@62bd765]" started-at="2023-10-06T16:19:54 IST" name="postSetUpData" data-provider="Data" finished-at="2023-10-06T16:19:54 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Hindi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Hindi]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[54545]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Rohan]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postSetUpData -->
+        <test-method signature="postSetUpData(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:api.test.DDTests@62bd765]" started-at="2023-10-06T16:19:54 IST" name="postSetUpData" data-provider="Data" finished-at="2023-10-06T16:19:54 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[History]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[History]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[98999]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Jyoti]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postSetUpData -->
+        <test-method signature="postGetBook()[pri:2, instance:api.test.DDTests@62bd765]" started-at="2023-10-06T16:19:54 IST" name="postGetBook" finished-at="2023-10-06T16:19:56 IST" duration-ms="2620" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postGetBook -->
+        <test-method signature="postDeleteBook()[pri:3, instance:api.test.DDTests@62bd765]" started-at="2023-10-06T16:19:56 IST" name="postDeleteBook" finished-at="2023-10-06T16:19:57 IST" duration-ms="487" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postDeleteBook -->
+      </class> <!-- api.test.DDTests -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

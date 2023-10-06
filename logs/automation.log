@@ -1,0 +1,24 @@
+2023-10-06 15:38:26,508 [main] INFO  api.test.LibraryTests - **************Adding Book***************************
+2023-10-06 15:38:28,989 [main] INFO  api.test.LibraryTests - **************Added Book Information***************************
+2023-10-06 15:38:29,001 [main] INFO  api.test.LibraryTests - **************Get Book Details***************************
+2023-10-06 15:38:29,135 [main] INFO  api.test.LibraryTests - **************We Got Book Details***************************
+2023-10-06 15:38:29,137 [main] INFO  api.test.LibraryTests - **************Book Delete***************************
+2023-10-06 15:38:29,269 [main] INFO  api.test.LibraryTests - **************Book is Deleted***************************
+2023-10-06 15:39:24,262 [main] INFO  api.test.LibraryTests - **************Adding Book***************************
+2023-10-06 15:39:26,196 [main] INFO  api.test.LibraryTests - **************Added Book Information***************************
+2023-10-06 15:39:26,208 [main] INFO  api.test.LibraryTests - **************Get Book Details***************************
+2023-10-06 15:39:26,349 [main] INFO  api.test.LibraryTests - **************We Got Book Details***************************
+2023-10-06 15:39:26,351 [main] INFO  api.test.LibraryTests - **************Book Delete***************************
+2023-10-06 15:39:26,482 [main] INFO  api.test.LibraryTests - **************Book is Deleted***************************
+2023-10-06 16:19:34,078 [main] INFO  api.test.LibraryTests - **************Adding Book***************************
+2023-10-06 16:19:35,075 [main] INFO  api.test.LibraryTests - **************Added Book Information***************************
+2023-10-06 16:19:35,077 [main] INFO  api.test.LibraryTests - **************Get Book Details***************************
+2023-10-06 16:19:35,227 [main] INFO  api.test.LibraryTests - **************We Got Book Details***************************
+2023-10-06 16:19:35,228 [main] INFO  api.test.LibraryTests - **************Book Delete***************************
+2023-10-06 16:19:35,373 [main] INFO  api.test.LibraryTests - **************Book is Deleted***************************
+2023-10-06 16:19:57,400 [main] INFO  api.test.LibraryTests - **************Adding Book***************************
+2023-10-06 16:19:58,629 [main] INFO  api.test.LibraryTests - **************Added Book Information***************************
+2023-10-06 16:19:58,630 [main] INFO  api.test.LibraryTests - **************Get Book Details***************************
+2023-10-06 16:19:58,795 [main] INFO  api.test.LibraryTests - **************We Got Book Details***************************
+2023-10-06 16:19:58,797 [main] INFO  api.test.LibraryTests - **************Book Delete***************************
+2023-10-06 16:19:58,947 [main] INFO  api.test.LibraryTests - **************Book is Deleted***************************
